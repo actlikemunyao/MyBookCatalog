@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146973940346",
+    "project_id": "book-catalogue-2427d",
+    "storage_bucket": "book-catalogue-2427d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146973940346:android:c11d5379d7d1abf36679c3",
+        "android_client_info": {
+          "package_name": "com.example.mybookcatalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_rueEAOw6kc8u7f47rDTvoQes3567bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

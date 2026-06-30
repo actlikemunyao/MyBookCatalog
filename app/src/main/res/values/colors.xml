@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="primary_dark">#2C3E50</color>
+    <color name="primary_accent">#E67E22</color>
+    <color name="background_light">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Dark Mode Colors -->
+    <color name="primary_dark_variant">#1A252F</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="text_primary_dark">#E0E0E0</color>
+    <color name="text_secondary_dark">#B0B0B0</color>
+
+    <!-- Material 3 mappings (Light) -->
+    <color name="colorPrimary">#2C3E50</color>
+    <color name="colorSecondary">#E67E22</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#212121</color>
+</resources>

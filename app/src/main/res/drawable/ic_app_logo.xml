@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background Card -->
+    <path
+        android:fillColor="#121212"
+        android:pathData="M20,0 L180,0 A20,20 0,0 1 200,20 L200,180 A20,20 0,0 1 180,200 L20,200 A20,20 0,0 1 0,180 L0,20 A20,20 0,0 1 20,0 z" />
+
+    <!-- Gold Border -->
+    <path
+        android:strokeColor="#E67E22"
+        android:strokeWidth="4"
+        android:pathData="M25,10 L175,10 A15,15 0,0 1 190,25 L190,175 A15,15 0,0 1 175,190 L25,190 A15,15 0,0 1 10,175 L10,25 A15,15 0,0 1 25,10 z" />
+
+    <!-- Stylized 'M' -->
+    <path
+        android:fillColor="#E67E22"
+        android:pathData="M60,40 L80,40 L100,70 L120,40 L140,40 L140,100 L125,100 L125,65 L105,95 L95,95 L75,65 L75,100 L60,100 Z" />
+
+    <!-- Open Book Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,110 C80,110 60,115 50,130 L50,160 C60,145 80,140 100,140 C120,140 140,145 150,160 L150,130 C140,115 120,110 100,110 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M100,110 L100,140" />
+
+    <!-- Text: MYBOOK CATALOG -->
+    <group android:translateX="45" android:translateY="165">
+        <!-- Simplified text representation as shapes -->
+        <path android:fillColor="#E67E22" android:pathData="M0,0 L110,0 L110,12 L0,12 Z" />
+        <!-- We will use the app name in text views for clarity, but this adds a visual anchor -->
+    </group>
+
+</vector>
